@@ -21,3 +21,17 @@ class Rectangle {
 
 let r = new Rectangle(12,12);
 console.log(r.width, r.height, r.getArea());
+
+let s = new String();
+console.log(s.length);
+
+
+let t = ""; // new string ("")
+console.log(t.length);
+
+
+ let n = new Number();
+ console.log(n, n.toFixed(3));
+
+ let m = 0;
+ console.log(m, m.toFixed(1));
